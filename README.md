@@ -13,9 +13,3 @@ EDNS Domains aims at being the pioneer of Web 3.0 disruption by supporting users
 To start with, our EDNS Eco-members are encouraged to integrate the EDNS **** Software Development Kit (SDK) with your dApp products to create a seamless user experience.&#x20;
 
 Unlike traditional domains in the Web 2.0 world, decentralized domains can integrate dApps from various chains and could be more secure. Furthermore, by linking wallets, decentralized domains can simplify platform operations and data management for projects by optimising the user login step, which also greatly enhance the user experience. Accelerating blockchain projects’ entry into Web 3.0, our easy-to-integrate SDK can work well with different types of dApps, for example, wallets, NFT platforms, GameFi games and more.
-
-### Function Category
-
-[Domain Lookup](readme/domain-lookup/)
-
-[Map 2.0 Domain to EDNS](readme/map-web-2.0-domain-to-edns/)&#x20;
