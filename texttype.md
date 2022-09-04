@@ -1,6 +1,8 @@
-# TextType
+---
+description: This is the list of the enumeration members of TextType
+---
 
-### Enumeration Members
+# TextType
 
 #### AVATAR
 
